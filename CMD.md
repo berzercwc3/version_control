@@ -74,4 +74,4 @@ branch имя
 merge
 ```
 
-
+Когда я уже сделаю этот проклятущий compare & request
